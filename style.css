@@ -1,0 +1,16 @@
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 50px;
+    overflow: hidden;
+    background-color: white;
+  }
+
+#nav-brand {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+
