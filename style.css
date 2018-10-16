@@ -5,7 +5,7 @@
 
 nav ul li:hover ul{
     display: block;
-    background-color:rgb(143, 143, 10);
+    background-color:white;
 }
 
 .col-md-8 {
@@ -72,6 +72,25 @@ nav ul li:hover ul{
         margin-top: 0px;
         font-size: 50px;
     }
+}
+
+#maintable td, th { border: none !important; 
+text-align:  center;}  
+
+
+#maintable th {  
+    background: #F3F3F3; /* Light grey background */
+    font-weight: bold; /* Make sure they're bold */
+}
+
+#maintable td {  
+    background: #FAFAFA; /* Lighter grey background */
+    text-align: center; /* Center our text */
+}
+
+thead {
+    background-color: rgb(1, 3, 5);
+    color: #FFFFFF;
 }
 
 
